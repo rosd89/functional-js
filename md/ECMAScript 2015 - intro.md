@@ -1,4 +1,4 @@
-#ECMAScript 2015
+# ECMAScript 2015
 
 ### 1. Primitive(기본형)
 * "", 0, false, undefined, null, NaN => 자바스크립트에서 거짓을 표현
